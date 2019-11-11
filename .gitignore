@@ -1,0 +1,4 @@
+.stack-work/
+servant-crud-elm.cabal
+*~
+node_modules
